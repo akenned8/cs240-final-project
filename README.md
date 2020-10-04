@@ -2,45 +2,6 @@
 # Program 3 - Let's Find Life
 ## Due Date: 11:59 p.m., May 10th, 2019
 
-*All programs will be tested on the machines in the Q22 lab. If your code does not run on the system in this lab, it is considered non-functioning EVEN IF IT RUNS ON YOUR PERSONAL COMPUTER. Always check that your code runs on the lab machines before submitting.*
-
-:no_entry: _If you do not notify the TA who your teammate is by the end of lab, one will be assigned to you. Working with a partner is a requirement. You cannot complete this assignment on your own. If you complete the project on your own, without a partner, you will receive a 0._
-
-***
-
-_Replace anything surrounded by the `<< >>` symbols._
-
-## SUMMARY:
- Group Members:<< your names >>
-
- << Provide a short description of your program's functionality. No more than a couple sentences. >>
-
-## OPTIMIZATION:
- << What, if anything, did you do to optimize your code? You must complete this to be eligible for extra credit. >>
-
-## KNOWN BUGS AND INCOMPLETE PARTS:
- << What parts of the project you were not able to complete >>
-
-## REFERENCES:
- << List any outside resources used >>
-
-## MISCELLANEOUS COMMENTS:
-<< Anything you would like the grader to know >>
-
-***
-
-### Policies
-
-#### Getting Help
-
-Please follow the debugging guidelines outlined [here](https://docs.google.com/document/d/1lbMdo-61lScAAho4UDGJ6HtkAlLXMjABbBqPL9r-w-o/edit?usp=sharing). We will try to answer questions and provide help within 24 hours of your request. If you do not receive a response in 24 hours, please send the request again.
-
-Although we will answer questions, provide clarification, and give general help where possible up until the deadline, we will not help you debug specific code within 24 hours of the deadline. We will not provide any help after the deadline.
-
-#### Extensions
-
-No extensions will be provided for the final project.
-
 #### Guidelines
 
 This is a pair programming assignment. You and a partner can divide up the work. Although both of you may not work on all parts of the program you should understand and be able to fully explain every portion of the code. Outside of your team, it is permissible to consult with classmates to ask general questions about the assignment, to help discover and fix specific bugs, and to talk about high level approaches in general terms. It is not permissible to give or receive answers or solution details from fellow students.
